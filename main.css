@@ -1,0 +1,41 @@
+body {
+  font-family: "Orbitron", sans-serif;
+}
+
+#title {
+  font-size: 100px;
+  text-align: center;
+}
+
+h3,
+h4 {
+  display: inline;
+  text-decoration: underline;
+  font-size: 30px;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+h4 {
+  margin-left: 80%;
+}
+
+#view-count {
+  float: right;
+  margin-right: 14%;
+}
+
+#sub-count {
+  margin-left: 15%;
+}
+
+#sub-count,
+#view-count {
+  display: inline;
+  color: rgb(245, 35, 35);
+}
+
+.fa-youtube {
+  color: red;
+  margin-left: 50%;
+}
